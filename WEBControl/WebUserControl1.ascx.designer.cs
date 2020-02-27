@@ -10,6 +10,6 @@
 namespace WEBControl {
     
     
-    public partial class About {
+    public partial class WebUserControl1 {
     }
 }
